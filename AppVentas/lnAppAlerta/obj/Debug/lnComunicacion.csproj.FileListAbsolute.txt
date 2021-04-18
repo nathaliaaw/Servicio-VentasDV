@@ -1,0 +1,6 @@
+C:\Users\natia\Music\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.dll
+C:\Users\natia\Music\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.pdb
+C:\Users\natia\Music\AppAlertas\lnAppAlerta\obj\Debug\lnComunicacion.csproj.CoreCompileInputs.cache
+C:\Users\natia\Music\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.dll
+C:\Users\natia\Music\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.pdb
+C:\Users\natia\Music\AppAlertas\lnAppAlerta\obj\Debug\lnComunicacion.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Users\natia\Documents\Alerta\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\Alerta\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\Alerta\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.csproj.CoreCompileInputs.cache
+C:\Users\natia\Documents\Alerta\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\Alerta\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\Alerta\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.csprojAssemblyReference.cache
+C:\Users\natia\Documents\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.csprojAssemblyReference.cache
+C:\Users\natia\Documents\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.csproj.CoreCompileInputs.cache
+C:\Users\natia\Documents\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Primer proyecto Ascenso Heon\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Primer proyecto Ascenso Heon\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\bin\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Primer proyecto Ascenso Heon\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.csprojAssemblyReference.cache
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Primer proyecto Ascenso Heon\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.csproj.CoreCompileInputs.cache
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Primer proyecto Ascenso Heon\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Primer proyecto Ascenso Heon\PROYECTO ALERTAS\AppAlertas\lnAppAlerta\obj\Debug\lnAppAlerta.pdb

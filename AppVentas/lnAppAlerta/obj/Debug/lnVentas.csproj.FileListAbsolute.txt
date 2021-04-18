@@ -1,0 +1,6 @@
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Prueba Davivienda\AppVentas\lnAppAlerta\bin\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Prueba Davivienda\AppVentas\lnAppAlerta\bin\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Prueba Davivienda\AppVentas\lnAppAlerta\obj\Debug\lnVentas.csproj.CoreCompileInputs.cache
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Prueba Davivienda\AppVentas\lnAppAlerta\obj\Debug\lnAppAlerta.dll
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Prueba Davivienda\AppVentas\lnAppAlerta\obj\Debug\lnAppAlerta.pdb
+C:\Users\natia\Documents\Nuevo Proyecto FacturacionDW\Prueba Davivienda\AppVentas\lnAppAlerta\obj\Debug\lnVentas.csprojAssemblyReference.cache
